@@ -1,0 +1,5 @@
+03:
+https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+
+04:
+https://iamtrask.github.io/2015/07/27/python-network-part2/
