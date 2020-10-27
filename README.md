@@ -10,14 +10,14 @@ Just change a couple of line and your new model is ready. Its a machine learning
 
 ## Content covered
 
-- Part 1 - [Data Preprocessing](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%201%20-%20Data%20Preprocessing)
-- Part 2 - [Regression:](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%202%20-%20Regression) 
+- [Part 1 - Data Preprocessing](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%201%20-%20Data%20Preprocessing)
+- [Part 2 - Regression:](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%202%20-%20Regression) 
 	1. Simple Linear Regression
 	2. Multiple Linear Regression
 	3. Polynomial Regression
 	4. SVR, Decision Tree Regression
 	5. Random Forest Regression
-- Part 3 - [Classification:](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%203%20-%20Classification)
+- [Part 3 - Classification:](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%203%20-%20Classification)
  	1. Logistic Regression
  	2. K-NN, SVM
  	3.  Kernel SVM
@@ -27,7 +27,7 @@ Just change a couple of line and your new model is ready. Its a machine learning
 - [Part 4 - Clustering: ](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%204%20-%20Clustering)
 	1. K-Means
 	2.  Hierarchical Clustering
-- [Part 5 - Association Rule Learning:]https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%205%20-%20Association%20Rule%20Learning) 
+- [Part 5 - Association Rule Learning:](https://github.com/anantgupta129/Machine-Learning-Deep-Learning-Data-Science-A-Z--udemy-/tree/master/Part%205%20-%20Association%20Rule%20Learning) 
 	1. Apriori
 - Part 6 - Reinforcement Learning: 
 	1. Upper Confidence Bound
