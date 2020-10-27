@@ -46,4 +46,4 @@ Just change a couple of line and your new model is ready. Its a machine learning
 	2. Parameter Tuning
 	3. Grid Search
 	
-[XGBoost](https://github.com/anantgupta129/XGBoost-for-Machine-Learning)
+[XGBoost Model](https://github.com/anantgupta129/XGBoost-for-Machine-Learning)
