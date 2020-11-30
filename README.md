@@ -47,3 +47,4 @@ Just change a couple of line and your new model is ready. Its a machine learning
 	3. Grid Search
 	
 [XGBoost Model](https://github.com/anantgupta129/XGBoost-for-Machine-Learning)
+**BONUS:** [CatBoost Model](https://github.com/anantgupta129/CatBoost-in-Python-ML)
